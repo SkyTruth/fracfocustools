@@ -36,7 +36,7 @@ class Report (object):
             {'label':'datum', 'regex': 'long/latprojection:?$', 'type': 'report'},
             {'label':'production_type', 'regex': 'productiontype:?$', 'type': 'report'},
             {'label':'true_vertical_depth', 'regex': 'trueverticaldepth.*$', 'type': 'report'},
-            {'label':'total_water_volume', 'regex': 'totalwatervolume.*$', 'type': 'report'},
+            {'label':'total_water_volume', 'regex': 'totalwatervolume.*$', 'type': 'report', 'optional': True},
             {'label':'trade_name', 'regex': 'tradename$', 'type': 'column'},
             {'label':'supplier', 'regex': 'supplier$', 'type': 'column'},
             {'label':'purpose', 'regex': 'purpose$', 'type': 'column'},
@@ -153,8 +153,7 @@ class Report (object):
                 pass
                                     
         for d in self.field_defs:
-            if d['type'] == 'report': 
-                if d['label'] not in self.report_data:
+            if d['type'] == 'report' and d['label'] not in self.report_data and not d.get('optional'):
                     self.error('Missing report field: %s' %d['label'])
 
 

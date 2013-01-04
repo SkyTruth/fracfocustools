@@ -42,12 +42,16 @@ class AdvancedTestSuite(unittest.TestCase):
         
         report = self.parse_pdf ('./tests/data/0403045721-8152012-978-Aera Energy Llc.pdf')
 
-        print len(report.chemicals)
-        print report.chemicals
-
         assert (report.report_data['fracture_date'] == '08/15/2012')
         assert (report.chemicals[0]['ingredient_weight'] == '284,177')
         assert (report.chemicals[1]['ingredient_weight'] == '0.600000')
+    
+    def test_missing_total_water_volume (self):
+        report = self.parse_pdf ('./tests/data/43013512780000-1172012-186-Bill Barrett Corp.pdf')
+
+        assert (report.report_data['fracture_date'] == '11/07/2012')
+
+
     
 #    def test_ParseFail (self):
 #        # This pdf causes an assertion in pdfminer.  Maybe a future update will fix it?
