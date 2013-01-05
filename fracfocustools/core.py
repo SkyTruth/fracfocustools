@@ -153,7 +153,10 @@ class Report (object):
                 pass
                                     
         for d in self.field_defs:
-            if d['type'] == 'report' and d['label'] not in self.report_data and not d.get('optional'):
+            if d['type'] == 'report' and d['label'] not in self.report_data:
+                if d.get('optional'):
+                    self.warning('Missing report field: %s' %d['label'])
+                else:
                     self.error('Missing report field: %s' %d['label'])
 
 

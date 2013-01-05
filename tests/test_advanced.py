@@ -22,11 +22,11 @@ class AdvancedTestSuite(unittest.TestCase):
         print logger.get_messages ()
         assert (not logger.has_error())
         
-        return report
+        return report, logger
     
     def test_Parser(self):
         
-        report = self.parse_pdf ('./tests/data/4200344349-8272012-242-CHESAPEAKE.pdf')
+        report,logger = self.parse_pdf ('./tests/data/4200344349-8272012-242-CHESAPEAKE.pdf')
 
         assert (report.report_data['api'] == '4200344349')
         assert (report.report_data['total_water_volume'] == '975,492')
@@ -40,16 +40,18 @@ class AdvancedTestSuite(unittest.TestCase):
      
     def test_IngredientWeight (self):        
         
-        report = self.parse_pdf ('./tests/data/0403045721-8152012-978-Aera Energy Llc.pdf')
+        report,logger = self.parse_pdf ('./tests/data/0403045721-8152012-978-Aera Energy Llc.pdf')
 
         assert (report.report_data['fracture_date'] == '08/15/2012')
         assert (report.chemicals[0]['ingredient_weight'] == '284,177')
         assert (report.chemicals[1]['ingredient_weight'] == '0.600000')
     
     def test_missing_total_water_volume (self):
-        report = self.parse_pdf ('./tests/data/43013512780000-1172012-186-Bill Barrett Corp.pdf')
+        report,logger = self.parse_pdf ('./tests/data/43013512780000-1172012-186-Bill Barrett Corp.pdf')
 
         assert (report.report_data['fracture_date'] == '11/07/2012')
+
+        assert (logger.has_message('warning', 'Missing report field: total_water_volume'))
 
 
     

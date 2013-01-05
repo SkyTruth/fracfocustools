@@ -23,6 +23,16 @@ class Logger (object):
             if m['severity'] == 'error': return True
         return False
 
+    def has_warning (self):
+        for m in self.messages:
+            if m['severity'] == 'warning': return True
+        return False
+
+    def has_message (self, severity, message):
+        for m in self.messages:
+            if m['severity'] == severity and m['message'] == message : return True
+        return False
+        
     def get_messages (self):
         return '\n'.join(['%(severity)s: %(message)s' % (m) for m in self.messages])
                  
