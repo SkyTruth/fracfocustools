@@ -64,7 +64,7 @@ class Report (object):
             {'label':'footer', 'regex': '\*totalwatervolumesourcesmayinclude', 'type': 'footer'},
             {'label':'footer', 'regex': '\*totalchemicalmassisthetotalamountof', 'type': 'footer'},
 
-            {'label':'ignore', 'regex': 'ingredientsshownabove', 'type': 'ignore'},
+            {'label':'ignore', 'regex': 'ingredientsshownabove', 'type': 'divider', 'optional': True},
         ]
         self.report_data = {}
         self.col_indexes = {}
@@ -178,7 +178,12 @@ class Report (object):
                 if field_def and field_def['type'] == 'footer':
                     # found the footer - no more data after this
                     break
-                if ''.join(row):
+
+                if field_def and field_def['type'] == 'divider':
+                    record = {'row': chem_row_number, 'trade_name':''.join(row)}
+                    self.chemicals.append(record)
+                    continue
+                elif ''.join(row):
                     # don't extract empty rows
                     self.extract_chemical_record (row, chem_row_number)
                 chem_row_number += 1
