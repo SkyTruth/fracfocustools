@@ -1,0 +1,71 @@
+api	37-113-20152-00-00
+base_nonwater_volume	321,205
+county	Sullivan
+datum	NAD27
+end_date	4/8/2013
+federal	NO
+fracture_date	4/5/2013
+latitude	41.53170300
+longitude	-76.51151400
+operator	Chesapeake Operating, Inc.
+state	Pennsylvania
+total_water_volume	5,350,842
+well_name	BURKHART N SUL 4H
+trade_name	supplier	purpose	ingredients	cas_number	additive_concentration	hf_fluid_concentration	comments
+Fresh Water	CHESAPEAKE ENERGY	Carrier/Base Fluid					
+			Water	007732-18-5	100.00000	84.36245	
+Northern White Sand	PUMPCO	Proppant - Natural					
+			Crystalline Silica (Quartz Sand, Silicon Dioxide)	014808-60-7	100.00000	11.60949	
+Recycled Produced Water	CHESAPEAKE ENERGY	Carrier/Base Fluid					
+			Water	007732-18-5	100.00000	2.39490	
+100 Mesh Sand	PUMPCO	Proppant - Natural					
+			Crystalline Silica (Quartz Sand, Silicon Dioxide)	014808-60-7	100.00000	1.23688	
+Acid HCL	PUMPCO	Acid					
+			Water	007732-18-5	85.00000	0.26313	
+			Hydrochloric Acid	007647-01-0	15.00000	0.04644	
+SFR-470	X CHEM	Friction Reducer					
+			Petroleum Distillate Hydrotreated Light	064742-47-8	35.00000	0.00696	
+			Quaternary Ammonium Chloride (Ammonium Chloride)	012125-02-9	15.00000	0.00298	
+			Ethoxylated Alcohol	068439-50-9	5.00000	0.00099	
+			Alcohols ethoxylated C12-16	068551-12-2	5.00000	0.00099	
+			Alcohol ethoxylate C-10/16 with 6.5 EO	068002-97-1	5.00000	0.00099	
+B84	X CHEM	Anti-Bacterial Agent					
+			Glutaraldehyde (Pentanediol)	000111-30-8	27.00000	0.00720	
+			Didecyl Dimethyl Ammonium Chloride	007173-51-5	8.00000	0.00213	
+			Quaternary Ammonium Compound	068424-85-1	6.00000	0.00147	
+			Ethanol	000064-17-5	4.00000	0.00107	
+SFR-451	X CHEM	Friction Reducer					
+			Petroleum Distillate Hydrotreated Light	064742-47-8	35.00000	0.00999	
+			Ammonium Acetate	000631-61-8	6.00000	0.00171	
+SC30	X CHEM	Scale Inhibitor					
+			Sodium Polyacrylate	009003-04-7	100.00000	0.00878	
+Ferriplex 40	PUMPCO	Iron Control Agent					
+			Water	007732-18-5	60.00000	0.00111	
+			Trisodium Nitrilotriacetate	005064-31-3	40.00000	0.00074	
+			Sodium Sulfate	007757-82-6	2.00000	0.00004	
+			Sodium Hydroxide	001310-73-2	1.00000	0.00002	
+Plexhib 256	PUMPCO	Corrosion Inhibitor					
+			Methanol (Methyl Alcohol)	000067-56-1	60.00000	0.00028	
+			Modified Thiourea Polymer	068527-49-1	30.00000	0.00014	
+			Ethoxylated Alcohols^ C14-15	068951-67-7	30.00000	0.00014	
+			Propargyl Alcohol (2-Propynol)	000107-19-7	10.00000	0.00005	
+			Alkenes^ C>10 alpha-	064743-02-8	5.00000	0.00002	
+Plexbreak 145	PUMPCO	Non-Emulsifier					
+			Water	007732-18-5	65.00000	0.00033	
+			2-Butoxyethanol (Ethylene Glycol Monobutyl Ether)	000111-76-2	15.00000	0.00008	
+			Methanol (Methyl Alcohol)	000067-56-1	15.00000	0.00008	
+			Coconut oil, Diethanolamide	068603-42-9	10.00000	0.00005	
+			Diethanolamine	000111-42-2	2.00000	0.00001	
+B84, SC30, SFR-451, SFR-470	X CHEM	Anti-Bacterial Agent, Friction Reducer, Scale Inhibitor					
+			Water	007732-18-5		0.08285	
+			Proprietary Surfactant	TRADE SECRET		0.04218	
+			Sorbitan Monooleate	001338-43-8		0.04218	
+			Ethoxylated Alcohol	068439-50-9		0.02620	
+			Polypropenamide	910644-97-2		0.02620	
+			Alcohols ethoxylated C12-16	068551-12-2		0.02620	
+			Alcohol ethoxylate C-10/16 with 6.5 EO	068002-97-1		0.02620	
+			Ethoxylated Oleylamine	026635-93-8		0.02620	
+			Polyethylene Glycol Monooleate	009004-96-0		0.01598	
+			Sorbitol Tetraoleate	061723-83-9		0.01598	
+			Alcohols, C12-C14-Secondary, Ethoxylated	084133-50-6		0.01598	
+			Polyacrylamide (Acrylamide, Ammonium Acrylate Copolymer)	026100-47-0		0.01598	

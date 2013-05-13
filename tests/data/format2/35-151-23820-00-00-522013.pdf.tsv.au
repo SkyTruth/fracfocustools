@@ -1,0 +1,72 @@
+api	35-151-23820-00-00
+base_nonwater_volume	
+county	Woods
+datum	NAD27
+end_date	3/15/2013
+federal	NO
+fracture_date	3/13/2013
+latitude	36.88597084
+longitude	-98.91504426
+operator	SandRidge Energy
+state	Oklahoma
+total_water_volume	1,642,578
+well_name	Meier 2816 1-22H
+trade_name	supplier	purpose	ingredients	cas_number	additive_concentration	hf_fluid_concentration	comments
+Water	Operator	Carrier					
+			Water	7732-18-5	100.00000	99.52747	
+40/70 White	FTSI	Proppant					
+			40/70 White	14808-60-8	100.00000	4.90007	
+Hydrochloric Acid (HCl)	FTSI	Acid					
+			Water	7732-18-5	63.00000	0.21188	
+			Hydrogen Chloride	7647-01-0	37.00000	0.12444	
+FRW-200	FTSI	Friction reducer					
+			Water	7732-18-5	48.00000	0.02980	
+			Copolymer of acrylamide and sodium acrylate	25987-30-8	33.00000	0.02049	
+			Petroleum distillate hydrotreated light	64742-47-8	26.00000	0.01614	
+			Acrylamide P/W acrylic acid, ammonium salt	26100-47-0	25.00000	0.01552	
+			Ammonium Chloride	12125-02-9	12.00000	0.00745	
+			Surfactant	Proprietary	7.00000	0.00435	
+			Alcohols (C12-C16), ethoxylated	68551-12-2	4.00000	0.00248	
+			Alcohols (C12-C14), ethoxylated	68439-50-9	4.00000	0.00248	
+			Alcohols (C10-C16), ethoxylated	68002-97-1	4.00000	0.00248	
+			Polyethylene glycol monooleate	9004-96-0	3.00000	0.00186	
+			Sorbitan Monooleate	1338-43-8	3.00000	0.00186	
+			Sorbitol Tetraoleate	61723-83-9	2.00000	0.00124	
+			Proprietary Component	Proprietary	1.50000	0.00093	
+			Alkyloxypolyethyleneoxyethanol	84133-50-6	1.00000	0.00062	
+			Ammonium Acrylate	10604-69-0	0.50000	0.00031	
+			Acrylamide	79-06-1	0.10000	0.00006	
+NE-100	FTSI	Non-emulsifier					
+			Water	7732-18-5	90.00000	0.04278	
+			2-Butoxyethanol	111-76-2	10.00000	0.00475	
+			2-Propanol	67-63-0	10.00000	0.00475	
+			Dodecylbenzenesulfonic acid	27176-87-0	5.00000	0.00238	
+			Benzene, C10-16 Alkyl Derivatives	68648-87-3	0.04000	0.00002	
+			Unsulphonated Matter	3rd Party Proprietar	0.03000	0.00001	
+			Sulfuric Acid	7664-93-9	0.01000	0.00001	
+			Sulfur Dioxide	7446-09-5			
+CS-250 SI	FTSI	Scale Inhibitor					
+			Water	7732-18-5	81.00000	0.00877	
+			Sodium Polyacrylate	9003-04-7	10.00000	0.00108	
+			Ethylene glycol	107-21-1	10.00000	0.00108	
+			Sodium chloride	7647-14-5	6.00000	0.00065	
+BIO-150	FTSI	Biocide					
+			Water	7732-18-5	50.00000	0.00558	
+			Gluteral	111-30-8	50.00000	0.00558	
+			Methanol	67-56-1	0.50000	0.00006	
+CI-150	FTSI	Acid Corrosion Inhibitor					
+			Organic amine resin salt	Proprietary	30.00000	0.00080	
+			Isopropanol	67-63-0	30.00000	0.00080	
+			Ethylene Glycol	107-21-1	30.00000	0.00080	
+			Aromatic aldehyde	Proprietary	10.00000	0.00027	
+			Alkylene Oxide Block Polymer	Proprietary	10.00000	0.00027	
+			Dimethylformamide	68-12-2	10.00000	0.00027	
+			Quaternary ammonium compound	Proprietary	10.00000	0.00027	
+			Water	7732-18-5	5.00000	0.00013	
+			Diethylene glycol	111-46-6	1.00000	0.00003	
+			Fatty Acid	Proprietary	0.10000		
+			Aliphatic alcohol	Proprietary	0.10000		
+			Fatty Acid Salt	Proprietary	0.10000		
+FE-100L	FTSI	Iron control					
+			Water	7732-18-5	60.00000	0.00116	
+			Citric acid	77-92-9	55.00000	0.00106	

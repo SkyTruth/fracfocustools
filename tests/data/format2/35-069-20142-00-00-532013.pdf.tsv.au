@@ -1,0 +1,40 @@
+api	35-069-20142-00-00
+base_nonwater_volume	
+county	Johnston
+datum	NAD27
+end_date	4/24/2013
+federal	NO
+fracture_date	4/21/2013
+latitude	34.17386100
+longitude	-96.80544400
+operator	XTO Energy/ExxonMobil
+state	Oklahoma
+total_water_volume	9,507,372
+well_name	Ross 3-29H
+trade_name	supplier	purpose	ingredients	cas_number	additive_concentration	hf_fluid_concentration	comments
+Sand	Halliburton	Proppant					
+			Crystaline Silica	14808-60-7	100.00000	5.55082	
+HCL 15%	Halliburton	Hydrochloric Acid					
+			Water	7732-18-5	60.00000	0.05621	
+			Hydrogen Chloride	7647-01-0	40.00000	0.03747	
+FR-66	Halliburton	Friction Reducer					
+			Proprietary	NA	70.00000	0.03526	
+			Hydrotreated light petroleum distillate	64742-47-8	30.00000	0.01511	
+Bactron K-176	Champion	Biocide					
+			Water	7732-18-5	0.45000	0.01555	
+			Glutaraldehyde	111-30-8	30.00000	0.01037	
+			Quanternary ammonium compounds,benzyl-C12-16 alkydimethyl,chloride	68424-85-1	10.00000	0.00346	
+			1-Decanaminium,N-decyl-N,N- dimethyl-chloride	7173-51-5	10.00000	0.00346	
+			Ethenol	64-17-5	5.00000	0.00173	
+Gyptron T-390	Champion	Scale Inhibitor					
+			Water	7732-18-5	80.00000	0.00814	
+			Methanol	67-56-1	10.00000	0.00172	
+			Nonylphenol Ethoxylate	NA	10.00000	0.00102	
+Optikleen	Halliburton	Breaker					
+			Sodium Perborate Tetrahydrate	10486-00-7	100.00000	0.00514	
+HAI-OIS	Halliburton	Acid Corrosion Inhibitor					
+			Methanol	67-56-1	60.00000	0.00008	
+			Propietary	NA	30.00000	0.00004	
+			Propargyl Alcohol	107-19-7	10.00000	0.00001	
+		Other Chemicals					
+			Water	7732-18-5	100.00000	94.25344	

@@ -1,0 +1,26 @@
+api	37-117-20372-00
+county	Tioga
+datum	NAD83
+fracture_date	12/06/2010
+latitude	41.6753111111111
+longitude	76.9782333333333
+operator	Talisman USA Inc.
+production_type	Gas
+state	Pennsylvania
+total_water_volume	3,619,434
+true_vertical_depth	8,221
+well_name	DCNR 587 (02-008-04)
+trade_name	supplier	purpose	ingredients	cas_number	additive_concentration	hf_fluid_concentration	comments
+Fresh Water		Carrier/Base Fluid	-	-	100.0	64.2808	
+Recycled Produced Water		Carrier/Base Fluid	-	-	100.0	21.4982	
+Sand (Proppant)		Proppant	-	-	100.0	13.2975	
+Acid, FEAC-20, LAI-20, FR-8, LSI-21, Bio-Clear 5000	TRICAN	Acid, Iron Control Agent, Corrosion Inhibitor, Friction Reducer, Scale Inhibitor, Biocide					
+			Hydrochloric acid	7647-01-0	15.0	0.1203	
+			Acetic acid	64-19-7	50.0	0.0022	
+			Citric Acid	77-92-9	30.0	0.0013	
+			Methanol	67-56-1	40.0	0.0011	
+			Propargyl alchohol	107-19-7	8.0	0.0002	
+			Petroleum distillate	Proprietary	40.0	0.0198	
+			Ammonium chloride	12125-02-9	1.5	0.0007	
+			Polyethylene glycol	25322-68-3	70.0	0.0163	
+			2,2-dibromo-3-nitrilopropio namide	10222-01-2	10.0	0.0023	

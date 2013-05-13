@@ -1,0 +1,82 @@
+api	42-311-35180-00-00
+base_nonwater_volume	0
+county	McMullen
+datum	NAD27
+end_date	4/23/2013
+federal	NO
+fracture_date	4/23/2013
+latitude	28.53490000
+longitude	-98.79136400
+operator	Murphy Exploration and Production USA
+state	Texas
+total_water_volume	9,016,476
+well_name	Y-Bar 24H
+trade_name	supplier	purpose	ingredients	cas_number	additive_concentration	hf_fluid_concentration	comments
+Water	Operator	Carrier / Base Fluid					
+			Water	7732-18-5	100.00000	91.73206	Non-MSDS
+Sand Texas Gold, 40/70	FTSI	Proppant					
+			Crystalline Silica (Quartz)	14808-60-7	100.00000	4.62414	
+Sand Texas Gold, 30/50	FTSI	Proppant					
+			Crystalline Silica (Quartz)	14808-60-7	100.00000	2.32234	
+Sand Texas Gold, 100M	FTSI	Proppant					
+			Crystalline Silica (Quartz)	14808-60-7	100.00000	0.68514	
+10.1% - 15% HCL	FTSI	Acid					
+			Water	7732-18-5	85.00000	0.32865	Non-MSDS
+			Hydrogen Chloride	7647-01-0	15.00000	0.05800	
+FRW-200	FTSI	Friction Reducer					
+			Water	7732-18-5	48.00000	0.04672	Non-MSDS
+			Copolymer of acrylamide and sodium acylate	25987-30-8	33.00000	0.03212	Non-MSDS
+			Petroleum distillate hydrotreated light	64742-47-8	26.00000	0.02531	
+			Acrylamide P/W acrylic acid, ammonium salt	26100-47-0	25.00000	0.02433	Non-MSDS
+			Ammonium Chloride	12125-02-9	12.00000	0.01168	Non-MSDS
+			Surfactant	Proprietary	7.00000	0.00681	Non-MSDS.  Contact for all proprietary components is: Shawn Stroman; FTS International;777 Main Street Suite 3000;  FT. Worth, TX 76102; 817-339-3562
+			Alcohols (C10-C16), ethoxylated	68002-97-1	4.00000	0.00389	Non-MSDS
+			Alcohols (C12-C14), ethoxylated	68439-50-9	4.00000	0.00389	Non-MSDS
+			Alcohols (C12-C16), ethoxylated	68551-12-2	4.00000	0.00389	Non-MSDS
+			Polyethylene glycol monooleate	9004-96-0	3.00000	0.00292	Non-MSDS
+			Sorbitan Monooleate	1338-43-8	3.00000	0.00292	Non-MSDS
+			Sorbitol Tetraoleate	61723-83-9	2.00000	0.00195	Non-MSDS
+			Proprietary Component	Proprietary	1.50000	0.00146	Non-MSDS.  Contact for all proprietary components is: Shawn Stroman; FTS International;777 Main Street Suite 3000;  FT. Worth, TX 76102; 817-339-3562
+			Alkyloxypolyethyleneoxyethanol	84133-50-6	1.00000	0.00097	Non-MSDS
+			Ammonium Acrylate	10604-69-0	0.50000	0.00049	Non-MSDS
+			Acrylamide	79-06-1	0.10000	0.00010	Non-MSDS
+Turquoise-1 - Bulk (HVG01)	FTSI	Water Gelling Agent					
+			Petroleum distillate	64742-47-8	55.00000	0.05106	
+			Guar gum	9000-30-0	50.00000	0.04642	
+			Surfactant	68439-51-0	2.00000	0.00186	
+			Clay	14808-60-7	2.00000	0.00186	
+			Ethylene glycol monobutyl ether	111-76-2	0.25000	0.00023	Non-MSDS
+ICI-3240 (330gal Tote)	FTSI	Biocide					
+			Water	7732-18-5	55.00000	0.02262	Non-MSDS
+			Dazomet ( Tetrahydro-3, 5- dimethyl-2H-1, 3, 5-thiadiazine-2 -thione)	533-74-4	24.00000	0.00987	
+			Sodium Hdroxide	1310-73-2	23.00000	0.00946	
+HT Liquid Breaker (HTLB03)	FTSI	Breaker					
+			Water	7732-18-5	90.00000	0.00537	Non-MSDS
+			Organic hydroperoxide	75-91-2	15.00000	0.00089	
+CI-150	FTSI	Corrosion Inhibitor					
+						Ethylene Glycol	
+			Isopropanol	67-63-0	30.00000	0.00085	
+			Organic amine resin salt	Proprietary	30.00000	0.00085	Contact for all proprietary components is: Shawn Stroman; FTS International;777 Main Street Suite 3000;  FT. Worth, TX 76102; 817-339-3562
+			Alkylene Oxide Block Polymer	Proprietary	10.00000	0.00028	Non-MSDS.  Contact for all proprietary components is: Shawn Stroman; FTS International;777 Main Street Suite 3000;  FT. Worth, TX 76102; 817-339-3562
+			Aromatic aldehyde	Proprietary	10.00000	0.00028	Contact for all proprietary components is: Shawn Stroman; FTS International;777 Main Street Suite 3000;  FT. Worth, TX 76102; 817-339-3562
+			Dimethylformamide	68-12-2	10.00000	0.00028	
+			Quaternary ammonium compound	Proprietary	10.00000	0.00028	Contact for all proprietary components is: Shawn Stroman; FTS International;777 Main Street Suite 3000;  FT. Worth, TX 76102; 817-339-3562
+			Water	7732-18-5	5.00000	0.00014	Non-MSDS
+			Diethylene glycol	111-46-6	1.00000	0.00003	Non-MSDS
+			Fatty Acid	Proprietary	0.10000		Non-MSDS.  Contact for all proprietary components is: Shawn Stroman; FTS International;777 Main Street Suite 3000;  FT. Worth, TX 76102; 817-339-3562
+			Fatty Acid Salt	Proprietary	0.10000		Non-MSDS.  Contact for all proprietary components is: Shawn Stroman; FTS International;777 Main Street Suite 3000;  FT. Worth, TX 76102; 817-339-3562
+			Aliphatic alcohol	Proprietary	0.10000		Non-MSDS.  Contact for all proprietary components is: Shawn Stroman; FTS International;777 Main Street Suite 3000;  FT. Worth, TX 76102; 817-339-3562
+FE-100L	FTSI	Iron control					
+			Water	7732-18-5	60.00000	0.00117	Non-MSDS
+			Citric acid	77-92-9	55.00000	0.00107	
+Formic Acid	FTSI	Acid					
+			Formic Acid	64-18-6	85.00000	0.00188	
+NE-100	FTSI	Non-emulsifier					
+			Water	7732-18-5	90.00000	0.00034	Non-MSDS
+			2-Propanol	67-63-0	10.00000	0.00004	
+			2-Butoxyethanol	111-76-2	10.00000	0.00004	
+			Dodecylbenzenesulfonic acid	27176-87-0	5.00000	0.00002	
+			Sulfur Dioxide	7446-09-5			Non-MSDS
+			Unsulphonated Matter	Proprietary	0.03000		Non-MSDS.  Contact for all proprietary components is: Shawn Stroman; FTS International;777 Main Street Suite 3000;  FT. Worth, TX 76102; 817-339-3562
+			Benzene, C10-16 Alkyl Derivatives	68648-87-3	0.04000		Non-MSDS
+			Sulfuric Acid	7664-93-9	0.01000		Non-MSDS

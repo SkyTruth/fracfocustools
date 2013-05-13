@@ -1,0 +1,37 @@
+api	04-030-45721
+county	Kern
+datum	NAD83
+fracture_date	08/15/2012
+latitude	35.4705043
+longitude	-119.7402082
+operator	Aera Energy Llc
+production_type	Oil
+state	California
+total_water_volume	34,083
+true_vertical_depth	1,860
+well_name	528AR2-20
+trade_name	supplier	purpose	ingredients	cas_number	additive_concentration	ingredient_weight	comments
+Water	Operator	Carrier	Water	7732-18-5	100.00	284,177	
+X-Cide 207	Baker Hughes	Biocide	2-Methyl-4-Isothiazolin-3-One	2682-20-4	5.00	0.600000	
+			5-Chloro-2-Methyl-4-Isothiazolin-3-One	26172-55-4	10.00	1.200000	
+			Crystalline Silica: Cristobalite	14464-46-1	1.00	0.120000	
+			Crystalline Silica: Quartz (SiO2)	14808-60-7	1.00	0.120000	
+			Diatomaceous Earth, Calcined	91053-39-3	60.00	7.200000	
+			Magnesium Chloride	7786-30-3	5.00	0.600000	
+			Magnesium Nitrate	10377-60-3	10.00	1.200000	
+GBW-5	Baker Hughes	Breaker	Ammonium Persulfate	7727-54-0	100.00	25.000000	SmartCare Product
+Enzyme G-I	Baker Hughes	Breaker	Hemicellulase Enzyme Concentrate	9025-56-3	3.00	6.503484	SmartCare Product
+			Water	7732-18-5	97.00	210.279316	
+Clay Master-5C (Tote)	Baker Hughes	Clay Control	Oxyakylated Amine Quat	138879-94-4	60.00	212.487840	
+XLW-10A	Baker Hughes	Crosslinker	Ethylene Glycol	107-21-1	30.00	126.000000	SmartCare Product
+			Sodium Hydroxide	1310-73-2	10.00	42.000000	
+			Sodium Tetraborate	1330-43-4	30.00	126.000000	
+GW-3LDF	Baker Hughes	Gelling Agent	1-Butoxy-2-Propanol	5131-66-8	5.00	56.463000	SmartCare Product
+			Cyrstalline Silica, Quartz (SiO2)	14808-60-7	5.00	56.463000	
+			Guar Gum	9000-30-0	60.00	677.556000	
+			Isotridecanol, ethoxylated	9043-30-5	5.00	56.463000	
+			Paraffinic Petroleum Distillate	64742-55-8	30.00	338.778000	
+			Petroleum Distillates	64742-47-8	30.00	338.778000	
+Sand, White, 20/40	Baker Hughes	Proppant	Crystalline Silica (Quartz)	14808-60-7	100.00	100,640.000000	
+			2-Butoxy-1-Propanol	15821-83-7		0.903408	
+			Water	7732-18-5		84.000000	

@@ -1,0 +1,27 @@
+api	37-003-22227-00-01
+base_nonwater_volume	
+county	Allegheny
+datum	NAD83
+end_date	3/3/2013
+federal	NO
+fracture_date	2/26/2013
+latitude	40.61626900
+longitude	-79.78661700
+operator	Range Resources Corporation
+state	Pennsylvania
+total_water_volume	6,030,812
+well_name	Schiller, Gerald Unit #4H
+trade_name	supplier	purpose	ingredients	cas_number	additive_concentration	hf_fluid_concentration	comments
+37% HCL	FracTech	Cleans Perforation					
+			HCL	7647-01-0	37.00000	0.02515	
+MC B-8520	Multichem	Antibacterial Agent					
+			4,4-Dimethyloxazolidine	51200-87-4	78.00000	0.01388	
+			3,4,4-Trimethyloxazolodine	75673-43-7	5.00000	0.00089	
+			2-Amino-2-methyl-1-propanol	124-68-5	1.00000	0.00018	
+			Formaldehyde Amine	56652-26-7	0.50000	0.00009	
+MC B-8650	Multichem	Antibacterial Agent					
+			Glutaraldehyde	111-30-8	50.00000	0.00390	
+			Methanol	67-56-1	0.50000	0.00004	
+CI-100	FracTech	Corrosion Inhibitor					
+			Methanol	67-56-1	95.00000	0.00053	
+			Propargyl Alcohol	107-19-7	5.00000	0.00003	

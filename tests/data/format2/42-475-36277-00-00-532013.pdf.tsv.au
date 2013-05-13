@@ -1,0 +1,42 @@
+api	42-475-36277-00-00
+base_nonwater_volume	712
+county	Ward
+datum	NAD27
+end_date	4/23/2013
+federal	NO
+fracture_date	4/23/2013
+latitude	31.58173650
+longitude	-102.98801590
+operator	Whiting Petroleum
+state	Texas
+total_water_volume	4,454
+well_name	GWO 1948
+trade_name	supplier	purpose	ingredients	cas_number	additive_concentration	hf_fluid_concentration	comments
+Water	Operator	Base Carrier Fluid					
+			Water	7732-18-5	100.00000	72.23616	
+Sand	Operator	Proppant					
+			Silicon Dioxide	14808-60-7	100.00000	25.85419	
+SG-15M	ASK	Polymer					
+			Guar Powder	9000-30-0	60.00000	0.67868	
+			White Mineral Oil	8042-47-5	40.00000	0.45116	
+			Proprietary	Proprietary	5.00000	0.05639	
+			Bentonite	14808-60-7	5.00000	0.05639	
+GB-150	Chemplex, L.C.	Breaker					
+			Non-hazardous ingredients	NA	100.00000	0.26836	
+CS-14	Chemplex, L.C.	Clay Control					
+			Non-hazardous salts(Choline)	Proprietary	66.00000	0.12640	
+			Water	7732-18-5	45.00000	0.08751	
+XL-335	ASK	Crosslinker					
+			Ethylene Glycol	107-21-1	25.00000	0.03306	
+			Potassium Hydroxide	1310-58-3	25.00000	0.03306	
+			Proprietary	Proprietary	25.00000	0.03306	
+			Proprietary	Proprietary	15.00000	0.01945	
+			Proprietary	Proprietary	10.00000	0.01361	
+NE-227	CESI	Non-emulsifier					
+			Ethoxylated Nonylphenol	9016-45-9	20.00000	0.03111	
+			Isopropanol	67-63-0	15.00000	0.02334	
+			Methanol	67-56-1	15.00000	0.02334	
+GB-2	Fritz Industries, Inc.	Breaker					
+			Ammonium Persulfate	7727-54-0	100.00000	0.02917	
+B-24	Weatherfork	Biocide					
+			2,2 Dibromo-3- Nitrilopropionamide	10222-01-2	100.00000	0.00194	

@@ -1,0 +1,36 @@
+api	05-045-21032-00-00
+base_nonwater_volume	0
+county	Garfield
+datum	NAD83
+end_date	2/27/2013
+federal	YES
+fracture_date	2/14/2013
+latitude	39.68395800
+longitude	-108.15715600
+operator	Encana Oil & Gas (USA) Inc.
+state	Colorado
+total_water_volume	10,618,440
+well_name	SG 8509B-21 N22 496
+trade_name	supplier	purpose	ingredients	cas_number	additive_concentration	hf_fluid_concentration	comments
+Water	Encana	Base Fluid					
+			Water	7732-18-5	100.00000	99.92934	Recycled
+Sodium Hypochlorite	Baker Hughes, Inc.	Biocide					
+			Water	7732-18-5	76.00000	0.00964	
+			Sodium chloride	7647-14-5	30.00000	0.00380	
+			Sodium hypochlorite	7681-52-9	30.00000	0.00380	
+ALPHA 1427	Baker Petrolite	Biocide					
+			Glutaraldehyde	111-30-8	30.00000	0.00785	
+			Didecyl dimethyl ammonium chloride	7173-51-5	10.00000	0.00262	
+			Ethanol	64-17-5	5.00000	0.00131	
+			Quaternary ammonium compound	68424-85-1	5.00000	0.00131	
+ASPEN FR-27	Aspen Polymers	Friction Reducer					
+			Ethylene glycol	107-21-1	3.00000	0.00095	
+BioBalls	Santrol Proppants	Fluid Diverter					
+			Polylactide Resin	9051-89-2	100.00000	0.00000	% Trade Secret
+Other Chemicals	Other Chemicals	Other Chemicals					
+			Water	7732-18-5			
+			Sodium Acetate	127-09-3			
+			Isoparaffinic Solvent	64742-47-8			
+			Sorbitan Monooleate	1338-43-8			
+			Ethoxylated Alcohols	66455-15-0			
+			2-Propenoic acid, polymer with 2 -propenamide, sodium salt	25987-30-8			

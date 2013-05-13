@@ -1,0 +1,69 @@
+api	4200344349
+county	ANDREWS
+datum	NAD27
+fracture_date	8/27/2012
+latitude	32.379475
+longitude	-102.339147
+operator	CHESAPEAKE
+production_type	GAS
+state	TEXAS
+total_water_volume	975,492
+true_vertical_depth	11,248
+well_name	UNIVERSITY 8-9 5
+trade_name	supplier	purpose	ingredients	cas_number	additive_concentration	hf_fluid_concentration	comments
+Fresh Water		Carrier/Base Fluid				84.47826	
+10.1 - 15 HCL	FTS INTERNATI	Acid	Water	007732-18-5	85.00	1.43099	
+	INTERNATI ONAL		Hydrochloric Acid	007647-01-0	15.00	0.25253	
+FE-100L	FTS INTERNATI ONAL	Iron Control Agent	Citric Acid	000077-92-9	55.00	0.00304	
+CI-150	FTS INTERNATI ONAL	Corrosion Inhibitor	Isopropanol (Isopropyl Alcohol, Propan-2-ol)	000067-63-0	60.00	0.00255	
+	ONAL		Proprietary Organic Amine Resin Salt	TRADE SECRET	30.00	0.00128	
+			Proprietary Organic Amine Resin Salt	TRADE SECRET	30.00	0.00128	
+			Dimethyl Formamide	000068-12-2	10.00	0.00043	
+			Proprietary Aromatic Aldehyde	TRADE SECRET	10.00	0.00043	
+			Proprietary Quaternary Ammonium Compound	TRADE SECRET	10.00	0.00043	
+MC C-6471	MULTI-CHE M	Corrosion Inhibitor	Methanol (Methyl Alcohol)	000067-56-1	13.00	0.00124	
+	M		2-Butoxyethanol (Ethylene Glycol	000111-76-2	6.00	0.00057	
+			2-Butoxyethanol (Ethylene Glycol Monobutyl Ether)	000111-76-2	6.00	0.00057	
+			Quaternary Ammonium Chloride	061789-71-1	5.00	0.00048	
+			Thioglycolic Acid	000068-11-1	2.00	0.00019	
+Northern White Sand		Proppant - Natural	Crystalline Silica (Quartz Sand, Silicon Dioxide)	014808-60-7	100.00	11.49301	
+Super LC		Proppant - Resin Coated	Crystalline Silica (Quartz Sand, Silicon Dioxide)	014808-60-7	97.00	1.73035	
+			Phenol/Formaldehyde Resin	009003-35-4	5.00	0.08919	
+HVG01 (TURQUOISE-1	FTS INTERNATI	Gelling Agent	Petroleum Distillate Hydrotreated Light	064742-47-8	55.00	0.16304	
+(TURQUOISE-1 BULK)	INTERNATI ONAL		Guar Gum	009000-30-0	50.00	0.14822	
+BULK)	ONAL		Crystalline Silica (Quartz Sand, Silicon	014808-60-7	2.00	0.00593	
+			Crystalline Silica (Quartz Sand, Silicon Dioxide)	014808-60-7	2.00	0.00593	
+			Surfactant	068439-51-0	2.00	0.00593	
+BXL02 Borate XL	FTS INTERNATI	Cross Linker	Sodium Metaborate Tetrahydrate	010555-76-7	25.00	0.03430	
+	INTERNATI ONAL		Boric Acid	010043-35-3	15.00	0.02058	
+	ONAL		Potassium Hydroxide	001310-58-3	12.00	0.01646	
+			Potassium Hydroxide	001310-58-3	12.00	0.01646	
+B10 (HIGH PH BUFFER)	FTS INTERNATI	pH Adjusting Agent	Potassium Carbonate	000584-08-7	48.00	0.02780	
+BUFFER)	INTERNATI ONAL		Potassium Hydroxide	001310-58-3	20.00	0.01158	
+	ONAL		Potassium Hydroxide	001310-58-3	20.00	0.01158	
+APB01 (AMMONIUM PERSUFATE BREAKER)	FTS INTERNATI ONAL	Breaker	Ammonium Persulfate	007727-54-0	100.00	0.00180	
+LEB-300	FTS INTERNATI ONAL	Breaker	No Hazardous Components	NONE		0.00000	
+MC B 8642 WS	MULTI-CHE M	Anti-Bacterial Agent	Glutaraldehyde (Pentanediol)	000111-30-8	60.00	0.02212	
+	M		Quaternary Ammonium Compound	068424-85-1	10.00	0.00369	
+			Quaternary Ammonium Compound	068424-85-1	10.00	0.00369	
+			Ethanol	000064-17-5	1.00	0.00037	
+MC S-2510T (WS)	MULTI-CHE M	Scale Inhibitor	Ethylene Glycol	000107-21-1	60.00	0.00646	
+	M		Sodium Hydroxide	001310-73-2	5.00	0.00054	
+			Sodium Hydroxide	001310-73-2	5.00	0.00054	
+			Additional Ingredients Not Listed on MSDS				
+Super LC		Proppant - Resin Coated	Non-MSDS Components Not Provided by Supplier	NOT PROVIDED			
+APB01 (AMMONIUM	FTS INTERNATI	Breaker, Corrosion Inhibitor, Cross Linker,	Proprietary Breaker (APB01) Additive	TRADE SECRET			
+(AMMONIUM PERSUFATE BREAKER), B10	INTERNATI ONAL	Inhibitor, Cross Linker, Iron Control Agent, pH Adjusting Agent	Proprietary Corrosion Inhibitor Additive (CI-150)	TRADE SECRET			
+BREAKER), B10		Adjusting Agent	(CI-150)				
+BREAKER), B10 (HIGH PH		Adjusting Agent	Proprietary Enzyme	TRADE SECRET			
+(HIGH PH			Proprietary Enzyme	TRADE SECRET			
+(HIGH PH BUFFER), BXL02 Borate XL, CI-150,			Sodium Chloride	007647-14-5			
+Borate XL, CI-150, FE-100L, LEB-300			Water	007732-18-5			
+MC B 8642 WS, MC C-6471, MC	MULTI-CHE M	Anti-Bacterial Agent, Corrosion Inhibitor, Scale	Methanol (Methyl Alcohol)	000067-56-1			
+C-6471, MC S-2510T (WS)	M	Corrosion Inhibitor, Scale Inhibitor	Neutralized Polycarboxylic Acid	TRADE SECRET			
+S-2510T (WS)		Inhibitor	Neutralized Polycarboxylic Acid	TRADE SECRET			
+S-2510T (WS)		Inhibitor	Quaternary Ammonium Compound	PROPRIETARY			
+			Quaternary Ammonium Compound	PROPRIETARY			
+			Isopropanol	000067-63-0			
+			Ethanolamine	000141-43-5			
+			Water	007732-18-5			

@@ -1,0 +1,57 @@
+api	42-383-38147-00-00
+base_nonwater_volume	
+county	Reagan
+datum	NAD27
+end_date	3/6/2013
+federal	NO
+fracture_date	3/4/2013
+latitude	31.52966940
+longitude	-101.37453000
+operator	Laredo Petroleum, Inc.
+state	Texas
+total_water_volume	1,854,885
+well_name	Sugg B 134E
+trade_name	supplier	purpose	ingredients	cas_number	additive_concentration	hf_fluid_concentration	comments
+Water	Laredo Petroleum, Inc.	Carrier/Base Fluid					
+			H20	7732-18-5	100.00000	91.68452	
+Ottawa Sand 30/50 (2.63 sg)	WFT	Proppant					
+			Crystalline Silica in the form of Quartz	14808-60-7	100.00000	5.46742	
+100 Mesh Sand	WFT	Proppant					
+			Crystalline Silica in the form of Quartz	14808-60-7	100.00000	0.89434	
+Atlas CRC 30/50	WFT	Proppant					
+			Quartz (SiO2) (Crystalline Silica)	14808-60-7	98.00000	0.52953	
+			Phenolic Resin	9003-35-4	5.00000	0.02702	
+			Hexamethylenetetramine	100-97-0	1.00000	0.00540	
+15% HCL	WFT	Acid					
+			Hydrochloric Acid	7647-01-1	15.00000	0.17039	
+CLO2	Bosque	Oxidizing Agent					
+			Water	7732-18-5	76.00000	0.07382	
+			Sodium Chlorite	7758-19-2	25.00000	0.02173	
+			Sodium Chloride	7647-14-5	3.00000	0.00294	
+WNE-363L	WFT	Sufactant					
+			DB-964	9003-11-6	30.00000	0.01426	
+			Dodecylbenzenesulfonic acid, monoethanaolamine salt	26836-07-7	15.00000	0.00713	
+			2-Ethylhexanol	104-76-7	7.00000	0.00333	
+			Poly(oxy-1,2-ethanedlyl), a- isotridecyl-w-hydroxy-	9043-30-5	5.00000	0.00238	
+FSI 2175	MID-CHEM	Scale Inhibitor					
+			Tetrakis Hydroxymethyl Phosphonium Sulfate	55566-30-8	9.00000	0.00368	
+WAI-251LC	WFT	Inhibitor					
+			Ethylene Glycol	111-76-2	40.00000	0.00085	
+			N,N-Dimethylformamide	68-12-2	20.00000	0.00042	
+			Tar bases, quinoline derivs, benzyl chloride-quaternized	72480-70-7	10.00000	0.00021	
+			2-Butoxyethanol	111-76-2	10.00000	0.00021	
+			1-Decanol	112-30-1	5.00000	0.00011	
+			1-Octanol	111-87-5	5.00000	0.00011	
+			Isopropyl Alcohol	67-63-0	5.00000	0.00011	
+			Ethoxylated Nonylphenol	68412-54-4	5.00000	0.00011	
+			Triethylphosphate	78-40-0	5.00000	0.00011	
+WIC-641L	WFT	Iron Control					
+			Citric Acid	77-92-9	60.00000	0.00147	
+Fluid Composition	WFT	Miscellaneous					
+			Proprietary Ingredient	Proprietary		0.09832	
+			Choline Chloride	67-48-1		0.07172	
+			Anionic water soluble polymer	NA		0.03687	
+			Cinnamaldehyde	104-55-2		0.00011	
+			Ethylene Oxide	75-21-8		0.00002	
+			Acetaldehyde	75-07-0		0.00002	
+			Dioxane	123-91-1		0.00002	

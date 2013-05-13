@@ -1,0 +1,41 @@
+api	42-211-35142-00-00
+base_nonwater_volume	124,521,375
+county	Hemphill
+datum	NAD27
+end_date	4/17/2013
+federal	NO
+fracture_date	4/11/2013
+latitude	35.88108000
+longitude	-100.50753000
+operator	MEWBOURNE OIL COMPANY
+state	Texas
+total_water_volume	1,236,396
+well_name	Webb Leslie Et Al `R` 1926H
+trade_name	supplier	purpose	ingredients	cas_number	additive_concentration	hf_fluid_concentration	comments
+Water	Operator	Carrier					
+			Water	7732-18-5	100.00000	85.83470	
+Nitrogen	Baker Hughes	Nitrogen					
+			Liquid Nitrogen	7727-37-9	100.00000	10.23131	
+Sand, White, 20/40	Baker Hughes	Proppant					
+			Crystalline Silica (Quartz)	14808-60-7	100.00000	3.62262	
+ClayCare, tote	Baker Hughes	Clay Control					
+			Choline Chloride	67-48-1	75.00000	0.07021	SmartCare Product
+			Water	7732-18-5	30.00000	0.02808	SmartCare Product
+NE-900, tote	Baker Hughes	Non-emulsifier					
+			Methanol	67-56-1	30.00000	0.02557	SmartCare Product
+			Oxyalkylated Alkylphenol	9016-45-9	10.00000	0.00852	SmartCare Product
+Clay Master-5C	Baker Hughes	Clay Control					
+			Oxyakylated Amine Quat	138879-94-4	60.00000	0.02919	
+MaxPerm-20A, bulk	Baker Hughes	Friction Reducer					
+			Aliphatic Hydrocarbon	Trade Secret	30.00000	0.02188	SmartCare Product
+			Oxyalkylated Alcohol	Trade Secret	5.00000	0.00365	SmartCare Product
+GBW-5	Baker Hughes	Breaker					
+			Ammonium Phosphate	7727-54-0	100.00000	0.00916	SmartCare Product
+Alpha 1427	Baker Hughes	Biocide					
+			Glutaraldehyde	111-30-8	30.00000	0.00350	SmartCare Product
+			Didecyl Dimethyl Ammonium Chloride	7173-51-5	10.00000	0.00117	SmartCare Product
+			Quaternary Ammonium Compound	68424-85-1	5.00000	0.00058	SmartCare Product
+			Ethanol	64-17-5	5.00000	0.00058	SmartCare Product
+		Other Chemicals					
+			Water	7732-18-5		0.07518	
+			Copolymer	Trade Secret		0.03409	

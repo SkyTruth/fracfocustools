@@ -1,0 +1,16 @@
+api	43-013-51278
+county	Duchesne
+datum	NAD27
+fracture_date	11/07/2012
+latitude	40.11265
+longitude	-110.49888
+operator	Barrett Bill Corp
+production_type	Oil
+state	Utah
+true_vertical_depth	6,256
+well_name	Lc Tribal 16H-19-45
+trade_name	supplier	purpose	ingredients	cas_number	additive_concentration	ingredient_weight	comments
+ScaleSorb 3, (25# pail)	Baker Hughes	Scale Inhibitor	Amino Alkyl Phosphonic Acid	Trade Secret	30.00	525.000000	SmartCare Product
+			Crystalline Silica: Quartz (SiO2)	14808-60-7	1.00	17.500000	
+			Diatomaceous Earth, Calcined	91053-39-3	100.00	1,750.000000	
+			Phosphonic Acid	13598-36-2	1.00	17.500000	

@@ -1,0 +1,76 @@
+api	42-329-38342-00-00
+base_nonwater_volume	68,796
+county	Midland
+datum	NAD27
+end_date	4/10/2013
+federal	NO
+fracture_date	4/9/2013
+latitude	32.03166660
+longitude	-102.26963620
+operator	Fasken Oil and Ranch, Ltd.
+state	Texas
+total_water_volume	1,867,782
+well_name	Fee BE 722
+trade_name	supplier	purpose	ingredients	cas_number	additive_concentration	hf_fluid_concentration	comments
+Water	Operator	Base Carrier Fluid					
+			Water	7732-18-5	100.00000	92.70648	
+PropStar Resin Coated Sand	Unimin Corporation	Proppant					
+			Crystalline Silica in form of quartz	14808-60-7	98.00000	2.70073	
+			Phenol-Formaldehyde Resin	9003-35-4	4.00000	0.11023	
+Sand	Operator	Proppant					
+			Silicon Dioxide	14808-60-7	100.00000	1.78446	
+Sinterlite (Proppant)	Sintex Minerals Services	Proppant					
+			Bauxite	1318-16-7	100.00000	1.38893	
+7.5% Hydrochloric Acid	Reagent	Scale Dissolver					
+			Water	7732-18-5	92.50000	0.92420	
+			36% Hydrochloric Acid	7647-01-0	7.50000	0.07493	
+SG-15M	ASK	Polymer					
+			Guar Powder	9000-30-0	60.00000	0.07758	
+			White Mineral Oil	8042-47-5	40.00000	0.05172	
+			Proprietary	Proprietary	5.00000	0.00646	
+			Bentonite	14808-60-7	5.00000	0.00646	
+XL-335	ASK	Crosslinker					
+			Proprietary	Proprietary	25.00000	0.01943	
+			Potassium Hydroxide	1310-58-3	25.00000	0.01943	
+			Ethylene Glycol	107-21-1	25.00000	0.01943	
+			Proprietary	Proprietary	15.00000	0.01165	
+			Proprietary	Proprietary	10.00000	0.00777	
+GB-150	Chemplex, L.C.	Breaker					
+			Non-hazardous ingredients	NA	100.00000	0.04264	
+NE-227	CESI	Non-emulsifier					
+			Ethoxylated Nonylphenol	9016-45-9	20.00000	0.00805	
+			Isopropanol	67-63-0	15.00000	0.00603	
+			Methanol	67-56-1	15.00000	0.00603	
+Cortron R-2340	Champion	Scale Inhibitor					
+			Methanol	67-56-1	60.00000	0.01507	
+			Amines	Proprietary	10.00000	0.00251	
+			Acetic Acid	64-19-7	5.00000	0.00126	
+Gyptron T-249	Champion	Scale Inhibitor					
+			Amine Phosphonate 1	Proprietary	60.00000	0.01256	
+			Hydrochloric Acid	7647-01-0	10.00000	0.00209	
+			Phosphoric Acid	7664-38-2	1.00000	0.00021	
+B-15	Water Science Tech	Biocide					
+			Water	7732-18-5	80.00000	0.00818	
+			Tetrakis (hydroxymethyl) phosphonium sulfate	55566-30-8	20.00000	0.00205	
+CorrSorb 3500	Baker Hughes	Corrosion Inhibitor					
+			Diatomaceous earth, calcined	091053-39-3	100.00000	0.00595	
+			Quaternary ammonium compound	Proprietary	30.00000	0.00179	
+			Acid phosphate ester	Proprietary	10.00000	0.00060	
+			Ethanol	64-17-5	5.00000	0.00030	
+			Crystalline silica: Quartz(SiO2)	14808-60-7	1.00000	0.00006	
+EGB-16HT	CESI Chemical	Breaker					
+			Ammonium Persulfate	7727-54-0	100.00000	0.00571	
+			Silica, Crystalline-Quartz	14808-60-7	15.00000	0.00086	
+FE-4	Chemplex, L.C.	Iron Control Additive					
+			Water	7732-18-5	55.00000	0.00320	
+			Citric Acid Anhydrous	77-92-9	55.00000	0.00320	
+I-122	Chemplex,L.C.	Corrosion Inhibitor					
+			Methonol	67-56-1	40.00000	0.00037	
+			thiourea-formaldehyde copolymer	68527-49-1	30.00000	0.00028	
+			Alcohol Ethoxylate Surfactants	Proprietary	30.00000	0.00028	
+			n-olefins	Proprietary	10.00000	0.00010	
+			Propargyl alcohol	107-19-7	8.00000	0.00008	
+AGA-380	Chemplex, L.C.	Acid Gellant					
+			Sodium Bisulfite(Trade Secret)	7631-90-5	64.00000	0.00036	
+			Petroleum Distillate	64742-47-8	35.00000	0.00020	
+			Acetic Acid	64-19-7	1.00000	0.00001	
