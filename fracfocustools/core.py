@@ -27,8 +27,6 @@ class Report (object):
             {'label':'fracture_date', 'regex': 'fracturedate:?$', 'type': 'report'},
             {'label':'fracture_date', 'regex': 'lastfracturedate:?$', 'type': 'report'},
             {'label':'fracture_date', 'regex': 'jobstartdate:?$', 'type': 'report'},
-            {'label':'fracture_date', 'regex': 'jobstartdate:?$', 'type': 'report'},
-            {'label':'end_date', 'regex': 'jobenddate:?$', 'type': 'report', 'optional': True},
             {'label':'state', 'regex': 'state:?$', 'type': 'report'},
             {'label':'county', 'regex': 'county:?$', 'type': 'report'},
             {'label':'county', 'regex': 'county/parish:?$', 'type': 'report'},
@@ -41,15 +39,14 @@ class Report (object):
             {'label':'datum', 'regex': 'datum:?$', 'type': 'report'},
             {'label':'total_water_volume', 'regex': 'totalwatervolume.*$', 'type': 'report', 'optional': True},
             {'label':'total_water_volume', 'regex': 'totalbasewatervolume.*$', 'type': 'report', 'optional': True},
-            {'label':'base_nonwater_volume', 'regex': 'totalbasenonwatervolume.*$', 'type': 'report', 'optional': True},
-            {'label':'federal', 'regex': 'Federal/tribalwell:$', 'type': 'report', 'optional': True},
 
-            # Only in new form report fields
+            # Only in old format report fields
             {'label':'production_type', 'regex': 'productiontype:?$', 'type': 'report', 'optional': True},
             {'label':'true_vertical_depth', 'regex': 'trueverticaldepth.*$', 'type': 'report', 'optional': True},
-            # Only in old from report fields
+            # Only in new format report fields
             {'label':'federal', 'regex': 'federal.*$', 'type': 'report', 'optional': True},
-            {'label':'base_nonwater_volume', 'regex': 'totalbasenonwatervolume$', 'type': 'report', 'optional': True},
+            {'label':'base_nonwater_volume', 'regex': 'totalbasenonwatervolume.*$', 'type': 'report', 'optional': True},
+            {'label':'end_date', 'regex': 'jobenddate:?$', 'type': 'report', 'optional': True},
 
             {'label':'trade_name', 'regex': 'tradename$', 'type': 'column'},
             {'label':'supplier', 'regex': 'supplier$', 'type': 'column'},
