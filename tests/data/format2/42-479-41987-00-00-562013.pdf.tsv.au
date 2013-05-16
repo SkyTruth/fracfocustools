@@ -1,0 +1,57 @@
+api	42-479-41987-00-00
+base_nonwater_volume	0
+county	Webb
+datum	NAD27
+end_date	3/12/2013
+federal	NO
+fracture_date	3/10/2013
+latitude	28.19035300
+longitude	-99.95807500
+operator	Anadarko Petroleum Corporation
+state	Texas
+total_water_volume	6,133,423
+well_name	Briscoe Chupadera Ranch 14H
+trade_name	supplier	purpose	ingredients	cas_number	additive_concentration	hf_fluid_concentration	comments
+Water	Anadarko	Carrier/Base Fluid					
+			Water	7732-18-5	100.00000	94.02657	Not Provided
+Sand (Proppant)	Cudd	Proppant					
+			Silica Substrate	N/A	100.00000	5.51493	Not Provided
+FR-60	Cudd	Friction Reducer					
+			Non-Hazardous Ingredients	N/A	100.00000	0.04887	Not Provided
+Hydrochloric Acid (7.5%)	Cudd	Acidizing					
+			Hydrochloric Acid	7647-01-0	7.50000	0.02147	Not Provided
+X-CIDE 750	Baker Add-Frac	Industrial Biocide					
+			Tetrakis (hydroxymethyl) phosponium sulfate	55566-30-8	60.00000	0.02124	Not Provided
+Hydrochloric Acid (15%)	Cudd	Acidizing					
+			Hydrochloric Acid	7647-01-0	15.00000	0.01121	Not Provided
+I-24	Cudd	Inhibitor					
+			Methanol	67-56-1	30.00000	0.00078	Not Provided
+			Haloalkyl heteropolycycle salt	Proprietary	30.00000	0.00078	Not Provided
+			Isopropanol	67-63-0	30.00000	0.00078	Not Provided
+			Formamide	75-12-7	30.00000	0.00078	Not Provided
+			Ethoxylated 4-Nonylphenol	26027-38-3	10.00000	0.00026	Not Provided
+			Pine Oil	8002-09-3	5.00000	0.00013	Not Provided
+			Propargyl alcohol	107-19-7	5.00000	0.00013	Not Provided
+			Substituted alcohol	Proprietary	5.00000	0.00013	Not Provided
+			Heavy Aromatic Naphtha	64742-94-5	5.00000	0.00013	Not Provided
+			Naphthalene	91-20-3	1.00000	0.00003	Not Provided
+			Benzyl Chloride	100-44-7	1.00000	0.00003	Not Provided
+SCW-5277	Baker Add-Frac	Scale Inhibitor					
+			Phosphonate Salt	Proprietary	5.00000	0.00053	Not Provided
+Ingredients shown above are subject to 29 CFR 1910.1200(i) and appear on Material Safety Data Sheets (MSDS). Ingredients shown below are Non-MSDS.
+		Other Chemicals					
+			Ammonium Sulfate	7783-20-2			
+			Tetrasodium Eethelenediaminetetraacetate	64-02-8			
+			Aliphatic Hydrocarbon	64742-47-8			
+			Sodium Chloride	7647-14-5			
+			Propietary Polymer	Proprietary			
+			Sodium Sulfate	7757-82-6			
+			Anionic Polymer	Proprietary			
+			Potassium Hydroxide	1310-58-3			
+			Oxyalkylated Alcohol	68002-97-1			
+			Modified Carboxylic Acid Polymer Salt	Proprietary			
+			Polyglycol Ester	Proprietary			
+			Water	7732-18-5			
+			Sodium Bisulfite	7631-90-5			
+			Polyol Ester	Proprietary			
+			Water	7732-18-5			

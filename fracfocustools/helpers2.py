@@ -33,8 +33,8 @@ class Rect(Element):
         Rect._rectlist.append(self)
         Rect._is_assigned = False
 
-    def __str__(self):
-        return ("Rect[%s, %s]: @%s (%s)"
+    def __unicode__(self):
+        return (u"Rect[%s, %s]: @%s (%s)"
                 % (self.row, self.col, self.area, self.bbox))
 
     @classmethod
@@ -162,9 +162,9 @@ class Text(Element):
         Text._textlist.append(self)
         Text._is_assigned = False
 
-    def __str__(self):
-        return ("Text[%s, %s]: (%s) '%s'"
-                % (self.row, self.col, self.cent, self.text.encode('utf-8')))
+    def __unicode__(self):
+        return (u"Text[%s, %s]: (%s) '%s'"
+                % (self.row, self.col, self.cent, self.text))
 
     @classmethod
     def clear(cls):

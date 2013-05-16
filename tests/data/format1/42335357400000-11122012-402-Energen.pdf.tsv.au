@@ -1,0 +1,24 @@
+api	42-335-35740
+county	Mitchell
+datum	NAD27
+fracture_date	11/12/2012
+latitude	32.3819
+longitude	-101.04235
+operator	Energen Resources Corporation
+production_type	Oil
+state	Texas
+total_water_volume	16,590
+true_vertical_depth	3,383
+well_name	Westbrook Southeast Unit/Well No. 2314W
+trade_name	supplier	purpose	ingredients	cas_number	additive_concentration	hf_fluid_concentration	comments
+F105, J567, J589, J590, L071, N002, S012	Schlumberger	Base Fluid, Breaker, Gelling Agent	Water	-	-	57.14338	
+	Schlumberger	Sand	Crystalline silica	14808-60-7	70.89343	30.38253	
+	Schlumberger	Nitrogen	Oxygen Depletion Asphyxiant	7727-37-9	26.20690	11.23139	
+	Schlumberger	Surfactant	Polyethoxylated alkanol (1)	Proprietary	0.75589	0.32395	
+	Schlumberger	Gelling Agent	Fatty acid amidoalkyl betaine	Proprietary	0.64136	0.27487	
+	Schlumberger	Reology Modifier	Propan-2-ol	67-63-0	0.45587	0.19537	
+	Schlumberger	Surfactant	2-butoxyethanol	111-76-2	0.37795	0.16198	
+	Schlumberger	Temporary Clay Stabilizer	Cholinium chloride	67-48-1	0.26523	0.11367	
+	Schlumberger	Surfactant	Butan-1-ol	71-36-3	0.16378	0.07019	
+	Schlumberger	Surfactant	Polyethoxylated alkanol (2)	Proprietary	0.12598	0.05399	
+	Schlumberger	Breaker	Sulfonated polystyrene	Proprietary	0.02415	0.01035	

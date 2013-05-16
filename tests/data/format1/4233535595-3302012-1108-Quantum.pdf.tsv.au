@@ -1,0 +1,59 @@
+api	42-335-35595
+county	Mitchell
+datum	NAD27
+fracture_date	3/30/2012
+latitude	32.383824
+longitude	-101.103638
+operator	Quantum Resources Management, LLC
+production_type	Oil
+state	Texas
+total_water_volume	87,803
+true_vertical_depth	3,032
+well_name	Turner Gregory Unit #1111
+trade_name	supplier	purpose	ingredients	cas_number	additive_concentration	hf_fluid_concentration	comments
+Water	Operator	Carrier	Water	7732-18-5	1.00000	0.771380	
+HCl, 10.1 - 15	FTSI	Acidizing	Hydrochloric Acid	7647-01-0	0.15000	0.006372	
+0	0	0	Water	7732-18-5	0.85000	0.036110	
+CI-150	FTSI	Corrosion Inhibitor	Isopropanol	67-63-0	0.30000	0.000036	
+			Dimethylformamide	68-12-2	0.10000	0.000012	
+			Organic amine resin salt	Proprietary	0.30000	0.000036	
+			Quaternary ammonium compound	Proprietary	0.10000	0.000012	
+			Aromatic aldehyde	Proprietary	0.10000	0.000012	
+			Ethylene Glycol	107-21-1	0.30000	0.000036	
+			Diethylene glycol	111-46-6	0.01000	0.000001	
+			Water	7732-18-5	0.05000	0.000006	
+			Fatty acid	Proprietary	0.00100	0.000000	
+			Fatty acid salt	Proprietary	0.00100	0.000000	
+			Aliphatic alcohol	Proprietary	0.00100	0.000000	
+			Alkylene Oxide Block Polymer	Proprietary	0.10000	0.000012	
+NE-100	FTSI	Non-Emulsifier	2-Butoxyethanol	111-76-2	0.10000	0.000052	
+			2-Propanol	67-63-0	0.10000	0.000052	
+			Dodecylbenzenesulfonic acid	27176-87-0	0.05000	0.000026	
+0	0	0	Sulfuric Acid	7664-93-9	0.00014	0.000000	
+0	0	0	Water	7732-18-5	0.90000	0.000470	
+			Sulfur Dioxide	7446-09-5	0.00001	0.000000	
+FE-100L	FTSI	Iron Control	Citric Acid	77-92-9	0.55000	0.000080	
+			Water	7732-18-5	0.60000	0.000087	
+ICI-445	FTSI	Biocide	didecyl dimethyl ammonium chloride	7173-51-5	0.50000	0.000004	
+			Ethanol	64-17-5	0.10000	0.000001	
+			Water	7732-18-5	0.40000	0.000003	
+HVG-1	FTSI	Guar Slurry	Guar Gum	9000-30-0	0.50000	0.002457	
+			Petroleum Distillate	64742-47-8	0.55000	0.002702	
+			Clay	14808-60-7	0.02000	0.000098	
+BXL-2	FTSI	Crosslinker	Sodium metaborate	10555-76-7	0.25000	0.000270	
+			Boric acid	10043-35-3	0.15000	0.000162	
+			Potassium hydroxide	1310-58-3	0.12000	0.000130	
+			Water	7732-18-5	0.75000	0.000810	
+			Surfactant	68439-51-	0.02000	0.000022	
+			Ethylene Glycol monobutyl ether	111-76-2	0.00250	0.000003	
+B-10	FTSI	High pH Buffer	Potassium Carbonate	584-08-7	0.48000	0.000221	
+			Potassium Hydroxide	1310-58-3	0.20000	0.000092	
+			Water	7732-18-5	0.55000	0.000253	
+ICI-150	FTSI	Biocide	Gluteral	111-30-8	0.50000	0.000198	
+			Water	7732-18-5	0.50000	0.000198	
+			Methanol	67-56-1	0.00500	0.000002	
+LEB-300	FTSI	Breaker	Non-Harardous Materials	NA	1.00000	0.000049	
+KCL-2	FTSI	Clay Protection	Quaternary Ammonium Chloride	70750-07-1	0.60000	0.000228	
+			Methanol	67-56-1	0.02000	0.000008	
+			Non-Harardous Materials	NA	1.00000	0.000379	
+Sand, TG, 16/30	FTSI	Proppant	Crystalline Silica (Quartz)	14808-60-6	1.00000	0.178024	

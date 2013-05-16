@@ -1,0 +1,24 @@
+api	37-005-30720
+county	Armstrong
+datum	NAD83
+fracture_date	3/1/2012
+latitude	40.722833
+longitude	-79.421139
+operator	EQT PRODUCTOIN
+production_type	Gas
+state	Pennsylvania
+total_water_volume	7,013,832
+true_vertical_depth	7,132
+well_name	WRIGHT 590660
+trade_name	supplier	purpose	ingredients	cas_number	additive_concentration	hf_fluid_concentration	comments
+HCl	Halliburton	15 HCl Acid	Hydrochloric Acid	7647-01-0	28	0.0374	
+HCl	Halliburton	Corrosion Inhibitor	Propargyl Alcohol	107-19-7	10	0.0001	
+HCl	Halliburton	Corrosion Inhibitor	Methanol	67-56-1	60	0.0004	
+FR-66	Halliburton	Friction Reducer	Hydrotreated light petroleum distillate	64742-47-8	30	0.0299	
+BE-9	Halliburton	Biocide	Tributyl tetradecyl phosphonium chloride	81741-28-8	10	0.0046	
+LP-65	Halliburton	Scale Inhibitor	Ammonium chloride	12125-02-9	10	0.0027	
+WG-36	Halliburton	Gelling Agent	Guar Gum	9000-30-0	100	0.0056	
+WG-36	Halliburton	Gelling Agent	Naptha, hydrotreated heavy	64742-48-9	0	0.0000	
+SP Breaker	Halliburton	Oxidizing Breaker	Sodium Persulfate	7775-27-1	100	0.0002	
+GBW-30	Halliburton	Enzyme Breaker	Hemicellulase Enzyme	9012-54-8	15	0.00000	
+BA-40L	Halliburton	Buffer	Potassium carbonate	584-08-7	60	0.00006	
