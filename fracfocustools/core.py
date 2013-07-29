@@ -63,6 +63,7 @@ class Report (object):
 
             {'label':'ignore', 'regex': 'ingredientsshownabove', 'type': 'divider', 'optional': True},
         ]
+        self.global_filter = '\(cid:.*?\)'  # infrequently occurring extraneous data in some pdfs
         self.report_data = {}
         self.col_indexes = {}
         self.chemicals = []
@@ -97,6 +98,9 @@ class Report (object):
     def error (self, msg):
         self.logger.error(msg)
 
+    def filter_field(self, field):
+        return re.sub(self.global_filter, '', field)
+
     def match_field_def (self, text, field_def):
         t = re.sub('[\s]','',text)
         return re.match(field_def['regex'], t, re.IGNORECASE)
@@ -125,8 +129,8 @@ class Report (object):
                 if col:
                     text.append (col)
                     break
-
-        self.report_data [field_def['label']] = ' '.join(text)
+        filtered_text = self.filter_field(' '.join(text))
+        self.report_data [field_def['label']] = filtered_text
 
     def extract_column_headings (self, row):
         for i,text in enumerate(row):
@@ -153,7 +157,7 @@ class Report (object):
         record = {'row': chem_row_number}
         for label,i in self.col_indexes.items():
             try:
-                record[label] = row[i]
+                record[label] = self.filter_field(row[i])
             except IndexError:
                 record[label] = ''
 
@@ -251,7 +255,7 @@ class FracFocusPDFParser (object):
             pages.reverse()
 
             # Detect pdf format
-            for page in doc.get_pages():
+            for page in pages:
                 interpreter.process_page(page)
                 layout = device.get_result()
                 if self.find_pdf_text(layout, "Job Start Date:"):

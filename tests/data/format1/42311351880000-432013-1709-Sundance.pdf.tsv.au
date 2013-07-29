@@ -1,0 +1,83 @@
+api	42-311-35188
+county	McMullen County 
+datum	NAD27
+fracture_date	4/3/2013
+latitude	28.499819
+longitude	-98.494417
+operator	Sundance Energy ( USA)
+production_type	Oil
+state	Texas 
+total_water_volume	7920689 (gal)
+true_vertical_depth	11200 (ft)
+well_name	Hoskins EFS 4H 
+trade_name	supplier	purpose	ingredients	cas_number	additive_concentration	hf_fluid_concentration	comments
+Water	Sundance Energy ( USA)	Carrier / Base Fluid	Carrier / Base Fluid - Water		100.00	89.21346	
+Econoprop 20/40 (2.7 sg)	WFT	Proppant	Mullite (Aluminum Silicate)	1302-93-8	85.00	3.46329	
+			Silica Crystalline-Cristobalite	14464-46-1	20.00	0.81489	
+			Silicon Dioxide, (amorphous as glass)	7631-86-9	35.00	1.42606	
+Ottawa Sand 40/70 (2.63 sg)	WFT	Proppant	Crystalline Silica in the form of Quartz	14808-60-7	100.00	3.84279	
+Super LC 20/40 (2.51 sg)	WFT	Proppant	Crystalline Silica (Quartz)	14808-60-7	72.98	0.37354	
+			Formaldehyde	50-00-0	0.01	0.00005	
+			Hexamethylenetetramine	100-97-0	1.00	0.00512	
+			Hydrated Aluminum Silicate	1332-58-7	5.00	0.02559	
+			Iron Oxide (fume)	1309-37-1	15.00	0.07678	
+			Phenol	108-95-2	0.01	0.00005	
+			Phenol-Formaldehyde Resin	9003-35-4	6.00	0.03071	
+WBK-133	WFT	Breaker	Ammonium Persulfate	7727-54-0	100.00	0.00010	
+Bio-Clear 5000	WFT	Bactericide	2,2-dibromo-3-nitriloproppionamide	10222-01-2	5.00	0.00165	
+			Polyethylene Glycol	25322-68-3	50.00	0.01654	
+WBK-143L	WFT	Breaker	Potassium chloride	7447-40-7	15.00	0.00949	
+			Sodium chlorite	7758-19-2	15.00	0.00949	
+WZZ-905L	WFT	Breaker	Cupric Chloride	747-39-4	15.00	0.00075	
+			Sodium Chloride	7647-14-5	15.00	0.00075	
+WCS-631LC	WFT	Clay Control	No ingredients as hazardous according to OSHA 29 CFR 1910.1200		0.00	0.00000	
+WXL-101LM	WFT	Crosslink Control	Distillates petroleum, hydrotreated light	64742-47-8	60.00	0.02009	
+WXL-105L	WFT	Crosslink Control	Boric acid	10043-35-3	15.00	0.00110	
+			Ethylene glycol	107-21-1	40.00	0.00292	
+			Monoethanolamine	141-43-5	5.00	0.00037	
+WFR-55LA (W)	WFT	Friction Reducers	No ingredients as hazardous according to OSHA 29 CFR 1910.1200		0.00	0.00000	
+WGA-15L	WFT	Gelling Agents	Petroleum Distillates	64742-47-8	60.00	0.18783	
+WAI-251LC	WFT	Inhibitor	1-Decanol	112-30-1	5.00	0.00033	
+			1-Octanol	111-87-5	5.00	0.00033	
+			2-Butoxyethanol	111-76-2	10.00	0.00065	
+			Ethoxylated Nonylphenol	68412-54-4	5.00	0.00033	
+			Ethylene Glycol	111-76-2	40.00	0.00261	
+			Isopropyl Alcohol	67-63-0	5.00	0.00033	
+			N,N-Dimethylformamide	68-12-2	20.00	0.00131	
+			Tar bases, quinoline derivs, benzyl chloride-quaternized	72480-70-7	10.00	0.00065	
+			Triethylphosphate	78-40-0	5.00	0.00033	
+WII-270L	WFT	Inhibitor	1,2-propylene glycol	57-55-6	60.00	0.00426	
+			Antimony potassium oxide	29638-69-5	60.00	0.00426	
+			Potassium acetate	127-08-2	2.00	0.00014	
+WSI-681L	WFT	Inhibitor	No ingredients as hazardous according to OSHA 29 CFR 1910.1200		0.00	0.00000	
+WIC-641L	WFT	Iron Control	Citric acid	77-92-9	60.00	0.00542	
+WPB-584L	WFT	ph Adjusting Agents	Potassium Carbonate	584-08-7	40.00	0.02335	
+			Potassium Hydroxide	1310-58-3	20.00	0.01167	
+WNE-363L	WFT	Surfactant	2-Ethylhexanol	104-76-7	7.00	0.00660	
+			DB-964	9003-11-6	30.00	0.02830	
+			Dodecylbenzenesulfonic acid, monoethanolamine salt	26836-07-7	15.00	0.01415	
+			Poly(oxy-1,2-ethanediyl), a-isotridecyl-w-hydroxy-	9043-30-5	5.00	0.00472	
+15 HCL	WFT	Acid	Hydrochloric Acid	7647-01-0	15.00	0.23151	
+Ingredients shown above are subject to 29 CFR 1910.1200(i) and appear on Material Safety Data Sheets (MSDS). Ingredients shown below are Non-MSDS.
+			2-BUTENEDIAMIDE, (E)-, N,N'-BIS2-(4,5-DIHYDRO-2-NORTALL OIL ALKYL-1H-IMIDAZOL-1-YL)ETHYL DERIVATIV	68442-77-3		0.00167	
+			2-Butoxyethanol	111-76-2		0.00347	
+			Acetaldehyde	75-07-0		0.00007	
+			Alcohol Ethoxylate	Mixture		0.00347	
+			Alcohols, C12-16, Ethoxylated	68551-12-2		0.00347	
+			Anionic water soluble polymer	Mixture		0.01917	
+			Arlacel 83	8007-43-0		0.00313	
+			Choline Chloride	67-48-1		0.06859	
+			Cinnamaldehyde	104-55-2		0.00033	
+			Crystalline Silica in the form of Quartz	14808-60-7		0.00313	
+			Deionized Water	7732-18-5		0.06085	
+			Dioxane	123-91-1		0.00007	
+			Distilled Tall-Oil Fatty Acids	61790-12-3		0.00167	
+			Ethylene Oxide	75-21-8		0.00007	
+			Guar gum	9000-30-0		0.15652	
+			Proprietary Ingredient	Proprietary		0.07028	
+			Propylene carbonate	108-32-7		0.00033	
+			Quaternary ammonium compounds, bis(hydrogenated tallow alkyl)dimethyl, salts with bentonite	68953-58-2		0.00167	
+			Sodium chloride	7647-14-5		0.01266	
+			Sodium Polyacrylate	903-04-7		0.01071	
+			Ulexite Powder	1334256		0.02009	
+			Water / Inerts	7732-18-5		0.00439	

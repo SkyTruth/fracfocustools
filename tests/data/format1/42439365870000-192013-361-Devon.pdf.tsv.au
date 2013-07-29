@@ -1,0 +1,39 @@
+api	42-439-36587
+county	Tarrant County 
+datum	NAD27
+fracture_date	1/9/2013
+latitude	32.596623
+longitude	-97.623363
+operator	DEVON ENERGY
+production_type	Gas
+state	Texas 
+total_water_volume	7794624 (gal)
+true_vertical_depth	6,535
+well_name	Murrin Bear Creek 8H 
+trade_name	supplier	purpose	ingredients	cas_number	additive_concentration	hf_fluid_concentration	comments
+Water	DEVON ENERGY CORP-BRID GEPORT	Carrier / Base Fluid	Carrier / Base Fluid - Water		100.00	94.93453	
+Ottawa Sand 20/40 (2.63 sg)	WFT	Proppant	Crystalline Silica in the form of Quartz	14808-60-7	100.00	1.84301	
+Ottawa Sand 40/70 (2.63 sg)	WFT	Proppant	Crystalline Silica in the form of Quartz	14808-60-7	100.00	2.58378	
+100 Mesh Sand	WFT	Proppant	Crystalline Silica in the form of Quartz	14808-60-7	100.00	0.40259	
+WFR-55LA (W)	WFT	Friction Reducers	No ingredients as hazardous according to OSHA 29 CFR 1910.1200		0.00	0.00000	
+ZetaFlow	WFT	Misc. Chemicals	Aniline	62-53-3	1.00	0.00050	
+			Ethylene Glycol	107-21-1	40.00	0.01994	
+			Methanol	67-56-1	30.00	0.01495	
+			Phosphate Ester	Proprietary	15.00	0.00748	
+			Quaternized Alkyl Nitrogenated Compd	Proprietary	60.00	0.02991	
+Chlorine Dioxide (Calculated)	Baker Hughes	Biocide	Sodium Chlorite	7758-19-2	25.00	138.700000	
+Scaletrol 5277, 55 gl drum	Baker Hughes	Scale Inhibitor	Phosphonate Salt	Trade Secret	5.00	179.027687	
+28 HCL	WFT	Acid	Hydrochloric Acid	7647-01-1	28.00	0.04118	
+Ingredients shown above are subject to 29 CFR 1910.1200(i) and appear on Material Safety Data Sheets (MSDS). Ingredients shown below are Non-MSDS.
+			Anionic water soluble polymer	Mixture		0.01175	
+			Proprietary Ingredient	Proprietary		0.03133	
+			Ammonium Sulfate	7783-20-2			
+			Modified Carboxylic Acid Polymer Salt	Trade Secret			
+			Potassium Hydroxide	1310-58-3			
+			Sodium Bisulfite	7631-90-5			
+			Sodium Chlorate	7775-09-9		0.277400	
+			Sodium Chloride	7647-14-5			
+			Sodium Hydroxide	95077-05-7		2.774000	
+			Sodium Sulfate	7757-82-6			
+			Water	7732-18-5		413.603400	
+**For some of the constituents listed above, the data submitted by Weatherford is provided in good faith reliance on the representations of Weatherford's vendors/suppliers.							

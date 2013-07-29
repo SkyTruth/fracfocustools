@@ -1,20 +1,20 @@
 api	42-335-35737
-county	Mitchell County (cid:98)
+county	Mitchell County 
 datum	NAD83
 fracture_date	2/18/2013
 latitude	32.21
 longitude	-100.9
-operator	Devon Energy Corp (OKC)(cid:98)
+operator	Devon Energy Corp (OKC)
 production_type	Oil
-state	Texas (cid:98)
+state	Texas 
 total_water_volume	10,636,068
 true_vertical_depth	7,262
-well_name	Scharlach M #1H (cid:98)
+well_name	Scharlach M #1H 
 trade_name	supplier	purpose	ingredients	cas_number	additive_concentration	hf_fluid_concentration	comments
 Water	Devon Energy Corp (OKC)	Carrier / Base Fluid	Carrier / Base Fluid - Water		100.00	91.06650	
 100 Mesh Sand	WFT	Proppant	Crystalline Silica in the form of Quartz	14808-60-7	100.00	2.34752	
 40/70 Premium	WFT	Proppant	Crystalline Silica in the form of Quartz	14808-60-7	100.00	5.93287	
-Bio-Clear(cid:132)(cid:112) 5000	WFT	Bactericide	2,2-dibromo-3-nitriloproppionamide	10222-01-2	5.00	0.00093	
+Bio-Clear 5000	WFT	Bactericide	2,2-dibromo-3-nitriloproppionamide	10222-01-2	5.00	0.00093	
 			Polyethylene Glycol	25322-68-3	50.00	0.00928	
 WBK-143L	WFT	Breaker	Potassium chloride	7447-40-7	15.00	0.00461	
 			Sodium chlorite	7758-18-2	15.00	0.00461	

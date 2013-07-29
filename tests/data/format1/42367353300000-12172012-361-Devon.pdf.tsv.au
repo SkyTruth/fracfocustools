@@ -1,0 +1,46 @@
+api	42-367-35330
+county	Parker
+datum	NAD27
+fracture_date	12/17/2012
+latitude	32.680173
+longitude	-97.783548
+operator	Devon-OKC
+production_type	Gas
+state	Texas
+total_water_volume	3247978 (gal)
+true_vertical_depth	6,108
+well_name	Skiles 2H 
+trade_name	supplier	purpose	ingredients	cas_number	additive_concentration	hf_fluid_concentration	comments
+Devon	Carrier / Base Fluid	Carrier / Base Fluid - Water			100.00	94.91046	
+WFT	Proppant	Crystalline Silica in the form of Quartz	14808-60-7	14808-60-7	100.00	1.88842	
+WFT	Proppant	Crystalline Silica in the form of Quartz	14808-60-7	14808-60-7	100.00	2.52870	
+WFT	Proppant	Crystalline Silica in the form of Quartz	14808-60-7	14808-60-7	100.00	0.41913	
+WFT	Friction Reducers	No ingredients as hazardous according to OSHA 29 CFR 1910.1200			0.00	0.00000	
+WFT	Gelling Agents	Petroleum Distillates	64742-47-8	64742-47-8	60.00	0.00000	
+WFT	Misc. Chemicals	Aniline	62-53-3	62-53-3	1.00	0.00053	
+		Ethylene Glycol	107-21-1	107-21-1	40.00	0.02107	
+		Methanol	67-56-1	67-56-1	30.00	0.01580	
+		Phosphate Ester	Proprietary	Proprietary	15.00	0.00790	
+Chlorine Dioxide (Calculated)	Baker Hughes	Biocide	Sodium Chlorite	7758-19-2	25.00	54.625000	
+Scaletrol 5277, 55 gl drum	Baker Hughes	Scale Inhibitor	Phosphonate Salt	Trade Secret	5.00	74.555297	
+		Quaternized Alkyl Nitrogenated Compd	Proprietary	Proprietary	60.00	0.03161	
+WFT	Acid	Hydrochloric Acid	7647-01-1	7647-01-1	28.00	0.04235	
+Ingredients shown above are subject to 29 CFR 1910.1200(i) and appear on Material Safety Data Sheets (MSDS). Ingredients shown below are Non-MSDS.
+			2-Butoxyethanol	111-76-2		0.00000	
+			Alcohol Ethoxylate	Mixture		0.00000	
+			Alcohols, C12-16, Ethoxylated	68551-12-2		0.00000	
+			Anionic water soluble polymer	Mixture		0.01481	
+			Arlacel 83	8007-43-0		0.00000	
+			Crystalline Silica in the form of Quartz	14808-60-7		0.00000	
+			Guar gum	9000-30-0		0.00000	
+			Proprietary Ingredient	Proprietary		0.03949	
+			Ammonium Sulfate	7783-20-2			
+			Modified Carboxylic Acid Polymer Salt	Trade Secret			
+			Potassium Hydroxide	1310-58-3			
+			Sodium Bisulfite	7631-90-5			
+			Sodium Chlorate	7775-09-9		0.109250	
+			Sodium Chloride	7647-14-5			
+			Sodium Hydroxide	95077-05-7		1.092500	
+			Sodium Sulfate	7757-82-6			
+			Water	7732-18-5		162.891750	
+**For some of the constituents listed above, the data submitted by Weatherford is provided in good faith reliance on the representations of Weatherford's vendors/suppliers.							

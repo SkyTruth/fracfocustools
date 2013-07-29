@@ -1,0 +1,38 @@
+api	42-363-36105
+county	Palo Pinto County 
+datum	NAD83
+fracture_date	1/23/2013
+latitude	32.97992
+longitude	-98.22478
+operator	Veritas Energy, LLC
+production_type	Oil
+state	Texas 
+total_water_volume	620510 (gal)
+true_vertical_depth	4,900
+well_name	JD Johnson Rnach #1 - Stages #1-4 
+trade_name	supplier	purpose	ingredients	cas_number	additive_concentration	hf_fluid_concentration	comments
+Water	Veritas Energy, LLC	Carrier / Base Fluid	Carrier / Base Fluid - Water		100.00	87.83602	
+Super LC 20/40 (2.51 sg)	WFT	Proppant	Crystalline Silica (Quartz)	14808-60-7	72.98	1.41628	
+			Formaldehyde	50-00-0	0.01	0.00019	
+			Hexamethylenetetramine	100-97-0	1.00	0.01941	
+			Hydrated Aluminum Silicate	1332-58-7	5.00	0.09703	
+			Iron Oxide (fume)	1309-37-1	15.00	0.29110	
+			Phenol	108-95-2	0.01	0.00019	
+			Phenol-Formaldehyde Resin	9003-35-4	6.00	0.11644	
+100 Mesh Sand	WFT	Proppant	Crystalline Silica in the form of Quartz	14808-60-7	100.00	7.57087	
+40/70 Premium	WFT	Proppant	Crystalline Silica in the form of Quartz	14808-60-7	100.00	2.16257	
+Bio-Clear 5000	WFT	Bactericide	2,2-dibromo-3-nitriloproppionamide	10222-01-2	5.00	0.00105	
+			Polyethylene Glycol	25322-68-3	50.00	0.01054	
+WFR-55LA (W)	WFT	Friction Reducers	No ingredients as hazardous according to OSHA 29 CFR 1910.1200		0.00	0.00000	
+WSI-681L	WFT	Inhibitor	No ingredients as hazardous according to OSHA 29 CFR 1910.1200		0.00	0.00000	
+WNE-363L	WFT	Surfactant	2-Ethylhexanol	104-76-7	7.00	0.00561	
+			DB-964	9003-11-6	30.00	0.02404	
+			Dodecylbenzenesulfonic acid, monoethanolamine salt	26836-07-7	15.00	0.01202	
+			Poly(oxy-1,2-ethanediyl), a-isotridecyl-w-hydroxy-	9043-30-5	5.00	0.00401	
+28 HCL	WFT	Acid	Hydrochloric Acid	7647-01-1	28.00	0.09877	
+Ingredients shown above are subject to 29 CFR 1910.1200(i) and appear on Material Safety Data Sheets (MSDS). Ingredients shown below are Non-MSDS.
+			Anionic water soluble polymer	Mixture		0.00709	
+			Deionized Water	7732-18-5		0.01054	
+			Proprietary Ingredient	Proprietary		0.01912	
+			Sodium Polyacrylate	903-04-7		0.00614	
+**For some of the constituents listed above, the data submitted by Weatherford is provided in good faith reliance on the representations of Weatherford's vendors/suppliers.							

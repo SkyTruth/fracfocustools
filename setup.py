@@ -11,7 +11,7 @@ with open('LICENSE') as f:
 
 setup(
     name='fracfocustools',
-    version='0.0.4',
+    version='0.0.5',
     description='Tools for maipulating data acquired from fracfous.org',
     long_description=readme,
     author='Paul Woods, SkyTruth',
