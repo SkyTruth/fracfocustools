@@ -18,6 +18,8 @@ setup(
     author_email='paul@skytruth.org',
     url='https://github.com/SkyTruth/fracfocustools',
     license=license,
-    packages=find_packages(exclude=('tests', 'docs'))
+    packages=find_packages(exclude=('tests', 'docs')),
+    install_requires=["pdfminer"],
+    package_data = {'': ['README.md', 'LICENSE']},
+    include_package_data = True
 )
-
